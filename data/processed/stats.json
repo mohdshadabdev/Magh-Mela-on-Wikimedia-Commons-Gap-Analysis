@@ -1,0 +1,167 @@
+{
+ "collected_at": "2026-11-08T21:52:04+00:00",
+ "unique_files_collected": 1100,
+ "unique_photographs": 1075,
+ "non_photo_files_excluded": {
+  "application/pdf": 9,
+  "image/png": 10,
+  "image/gif": 3,
+  "video/webm": 3
+ },
+ "photos_by_class": {
+  "Prayagraj / Sangam (broader context)": 324,
+  "Kumbh Mela at Prayagraj (related event)": 625,
+  "Search hit, Magh Mela not in visible text (excluded)": 68,
+  "Magh Mela (confirmed)": 43,
+  "Magh Mela scans, manuscripts, artwork (not photographs)": 8,
+  "Magh Mela elsewhere in India (excluded)": 7
+ },
+ "magh_mela_confirmed": {
+  "photos": 43,
+  "by_year_documented": {
+   "2013": 0,
+   "2014": 25,
+   "2015": 4,
+   "2016": 0,
+   "2017": 0,
+   "2018": 0,
+   "2019": 0,
+   "2020": 2,
+   "2021": 0,
+   "2022": 1,
+   "2023": 0,
+   "2024": 3,
+   "2025": 1,
+   "2026": 0
+  },
+  "outside_2013_2026": 7,
+  "year_source": {
+   "date taken (EXIF/description)": 39,
+   "file title": 1,
+   "file title (date taken says 2026)": 2,
+   "upload year (fallback)": 1
+  },
+  "by_upload_year": {
+   "2005": 1,
+   "2017": 25,
+   "2018": 5,
+   "2019": 4,
+   "2020": 2,
+   "2022": 2,
+   "2025": 1,
+   "2026": 3
+  },
+  "unique_uploaders": 10,
+  "uploader_counts": {
+   "Adam63": 22,
+   "Oo91": 8,
+   "Rohitpal08": 3,
+   "Ms Sarah Welch": 3,
+   "Prem708187": 2,
+   "Baddu676": 1,
+   "Howzzat.sho": 1,
+   "DarwIn": 1,
+   "Akv": 1,
+   "Gauri Guptaa": 1
+  },
+  "themes": {
+   "Everyday life and people": 18,
+   "Rituals and religious practices": 17,
+   "Sangam and river activities": 17,
+   "Cultural activities and traditions": 10,
+   "Temporary settlements and infrastructure": 6,
+   "Unclassified (no keyword match)": 4
+  },
+  "themes_strong": {
+   "Rituals and religious practices": 11,
+   "Sangam and river activities": 12,
+   "Temporary settlements and infrastructure": 5,
+   "Everyday life and people": 14,
+   "Cultural activities and traditions": 4
+  },
+  "themes_description_only": {
+   "Cultural activities and traditions": 6,
+   "Rituals and religious practices": 6,
+   "Sangam and river activities": 5,
+   "Everyday life and people": 4,
+   "Temporary settlements and infrastructure": 1
+  },
+  "found_by": {
+   "dedicated_category_only": 0,
+   "search_only": 20,
+   "both": 23
+  }
+ },
+ "possible_magh_mela_unconfirmed": {
+  "photos": 32,
+  "by_year": {
+   "2013": 0,
+   "2014": 11,
+   "2015": 0,
+   "2016": 2,
+   "2017": 1,
+   "2018": 1,
+   "2019": 0,
+   "2020": 3,
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 5,
+   "2025": 0,
+   "2026": 0
+  },
+  "unique_uploaders": 9
+ },
+ "kumbh_related": {
+  "photos": 625,
+  "by_year_documented": {
+   "2013": 36,
+   "2014": 0,
+   "2015": 0,
+   "2016": 2,
+   "2017": 0,
+   "2018": 2,
+   "2019": 337,
+   "2020": 0,
+   "2021": 1,
+   "2022": 0,
+   "2023": 1,
+   "2024": 12,
+   "2025": 221,
+   "2026": 0
+  }
+ },
+ "broader_context": {
+  "photos": 324,
+  "by_year_documented": {
+   "2013": 12,
+   "2014": 87,
+   "2015": 81,
+   "2016": 7,
+   "2017": 9,
+   "2018": 10,
+   "2019": 3,
+   "2020": 6,
+   "2021": 6,
+   "2022": 5,
+   "2023": 2,
+   "2024": 6,
+   "2025": 45,
+   "2026": 3
+  }
+ },
+ "all_photos_unique_uploaders": 161,
+ "layer_counts_photos": {
+  "dedicated": 25,
+  "search": 139,
+  "related": 625,
+  "broader": 917
+ },
+ "dedicated_categories": {
+  "Category:Magh Mela Festival Allahabad 2014": "Magh Mela"
+ },
+ "magh_categories_used_on_files": [
+  "Category:Magh Mela",
+  "Category:Magh mela uttrakshi"
+ ]
+}
