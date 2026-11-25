@@ -1,0 +1,349 @@
+{
+ "collected_at": "2026-11-08T21:52:04+00:00",
+ "api": "https://commons.wikimedia.org/w/api.php",
+ "search_terms_files": [
+  "\"Magh Mela\"",
+  "\"Magha Mela\"",
+  "\"Maagh Mela\"",
+  "\"Maghmela\"",
+  "\"माघ मेला\"",
+  "\"माघ मेले\""
+ ],
+ "search_terms_categories": [
+  "Magh Mela",
+  "Magha Mela",
+  "Maagh Mela",
+  "माघ मेला"
+ ],
+ "dedicated_categories": {
+  "Category:Magh Mela Festival Allahabad 2014": "Magh Mela"
+ },
+ "magh_categories_used_on_files": [
+  "Category:Magh Mela",
+  "Category:Magh mela uttrakshi"
+ ],
+ "category_trees": [
+  {
+   "layer": "dedicated",
+   "root": "Category:Magh Mela Festival Allahabad 2014",
+   "max_depth": 3,
+   "categories_visited": [
+    {
+     "category": "Category:Magh Mela Festival Allahabad 2014",
+     "depth": 0
+    }
+   ],
+   "files": 23
+  },
+  {
+   "layer": "related",
+   "root": "Category:Prayag Kumbh Mela",
+   "max_depth": 3,
+   "categories_visited": [
+    {
+     "category": "Category:Prayag Kumbh Mela",
+     "depth": 0
+    },
+    {
+     "category": "Category:2001 Kumbh Mela",
+     "depth": 1
+    },
+    {
+     "category": "Category:2007 Ardh Kumbh Mela",
+     "depth": 1
+    },
+    {
+     "category": "Category:2013 Kumbh Mela",
+     "depth": 1
+    },
+    {
+     "category": "Category:2019 Ardh Kumbh Mela",
+     "depth": 1
+    },
+    {
+     "category": "Category:2025 Kumbh Mela",
+     "depth": 1
+    },
+    {
+     "category": "Category:2025 Kumbh Mela laser light shows",
+     "depth": 2
+    },
+    {
+     "category": "Category:Satellite pictures of 2025 Kumbh Mela",
+     "depth": 2
+    }
+   ],
+   "files": 638
+  },
+  {
+   "layer": "related",
+   "root": "Category:2013 Kumbh Mela",
+   "max_depth": 2,
+   "categories_visited": [
+    {
+     "category": "Category:2013 Kumbh Mela",
+     "depth": 0
+    }
+   ],
+   "files": 32
+  },
+  {
+   "layer": "related",
+   "root": "Category:2019 Ardh Kumbh Mela",
+   "max_depth": 2,
+   "categories_visited": [
+    {
+     "category": "Category:2019 Ardh Kumbh Mela",
+     "depth": 0
+    }
+   ],
+   "files": 337
+  },
+  {
+   "layer": "related",
+   "root": "Category:2025 Kumbh Mela",
+   "max_depth": 3,
+   "categories_visited": [
+    {
+     "category": "Category:2025 Kumbh Mela",
+     "depth": 0
+    },
+    {
+     "category": "Category:2025 Kumbh Mela laser light shows",
+     "depth": 1
+    },
+    {
+     "category": "Category:Satellite pictures of 2025 Kumbh Mela",
+     "depth": 1
+    }
+   ],
+   "files": 239
+  },
+  {
+   "layer": "broader",
+   "root": "Category:Prayagraj Triveni Sangam",
+   "max_depth": 2,
+   "categories_visited": [
+    {
+     "category": "Category:Prayagraj Triveni Sangam",
+     "depth": 0
+    },
+    {
+     "category": "Category:Magh Mela Festival Allahabad 2014",
+     "depth": 1
+    }
+   ],
+   "files": 172
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2013 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2013 in Prayagraj",
+     "depth": 0
+    },
+    {
+     "category": "Category:2013 Kumbh Mela",
+     "depth": 1
+    }
+   ],
+   "files": 36
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2014 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2014 in Prayagraj",
+     "depth": 0
+    },
+    {
+     "category": "Category:Magh Mela Festival Allahabad 2014",
+     "depth": 1
+    }
+   ],
+   "files": 100
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2015 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2015 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 95
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2016 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2016 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 3
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2017 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2017 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 1
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2018 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2018 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 2
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2019 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2019 in Prayagraj",
+     "depth": 0
+    },
+    {
+     "category": "Category:2019 Ardh Kumbh Mela",
+     "depth": 1
+    }
+   ],
+   "files": 337
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2020 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2020 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 3
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2021 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2021 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 6
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2022 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2022 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 1
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2023 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2023 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 0
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2024 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2024 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 0
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2025 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2025 in Prayagraj",
+     "depth": 0
+    },
+    {
+     "category": "Category:2025 Kumbh Mela",
+     "depth": 1
+    }
+   ],
+   "files": 226
+  },
+  {
+   "layer": "broader",
+   "root": "Category:2026 in Prayagraj",
+   "max_depth": 1,
+   "categories_visited": [
+    {
+     "category": "Category:2026 in Prayagraj",
+     "depth": 0
+    }
+   ],
+   "files": 2
+  },
+  {
+   "layer": "dedicated",
+   "root": "Category:Magh Mela",
+   "max_depth": 3,
+   "categories_visited": [
+    {
+     "category": "Category:Magh Mela",
+     "depth": 0
+    }
+   ],
+   "files": 1,
+   "note": "found on file pages, not by category search"
+  },
+  {
+   "layer": "dedicated",
+   "root": "Category:Magh mela uttrakshi",
+   "max_depth": 3,
+   "categories_visited": [
+    {
+     "category": "Category:Magh mela uttrakshi",
+     "depth": 0
+    }
+   ],
+   "files": 1,
+   "note": "found on file pages, not by category search"
+  }
+ ]
+}
